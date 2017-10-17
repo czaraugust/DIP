@@ -1,6 +1,5 @@
-# <Project Car License Plate Recognition Embedded System>
-<Subtitle >
-
+# Project Car License Plate Recognition Embedded System
+Subtitle 
 <Abstract,  >
 
 <author César Augusto dos Santos Caetano>
