@@ -1,10 +1,10 @@
-<Project title>
-<Subtitle>
+<Project Car License Plate Recognition Embedded System>
+<Subtitl >
 
-<Abstract, sucint explanation of what this project is about>
+<Abstract,  >
 
-<author description>
-<contact email>
+<author César Augusto dos Santos Caetano>
+<contact cesaraugusto@ic.ufal.br>
 
 
 Folder contents:
