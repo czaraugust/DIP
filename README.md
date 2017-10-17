@@ -1,5 +1,5 @@
 # Project Car License Plate Recognition Embedded System
-## Subtitle 
+#### A car plate detection software, embedded in a raspberry pi, to identify vehicles that travel through the Federal University of Alagoas.
 <Abstract,  >
 
 <author César Augusto dos Santos Caetano>
